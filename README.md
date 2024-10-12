@@ -1,4 +1,4 @@
-# Boas vindas ao repositório do projeto de Receitas!
+# Boas vindas ao repositório do Projeto de Receitas!
 
 Projeto desenvolvido como requisito obrigatório para conclusão do módulo de Front-end do curso de Desenvolvimento Web da Trybe. Neste projeto, realizado em grupo, foi desenvolvido um app de receitas em **React**, utilizando **React Hooks** e **Context API**. Neste app, é possível visualizar, buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas e drinks. Utilizamos duas APIs distintas, descritas abaixo no projeto, uma para comidas e outra para as bebidas. O layout tem como foco dispositivos móveis, seguindo o princípio do **mobile first**, mas desenvolvemos o layout totalmente responsivo para que a aplicação possa ser visualizada de forma fluída em todos os tamanhos de tela.
 
